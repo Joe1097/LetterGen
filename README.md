@@ -16,7 +16,7 @@ En el verano de 2019, mi familia y yo empezamos a jugar mucho el juego de Basta,
 - Usa Fragments.
 - Código comentado.
 
-¿Cómo montar el proyecto?
+### ¿Cómo montar el proyecto?
 - Instala la última versión de Android Studio.
 - Descarga el proyecto.
 - Abre Android Studio.
