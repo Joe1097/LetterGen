@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">LetterGen</string>
+    <string name="content_description">Content Description</string>
+    <string name="string_unknown">?</string>
+    <string name="string_generate">Generate</string>
+    <string name="string_start">Start</string>
+    <string name="string_stop">Stop</string>
+    <string name="string_include">Letters included:</string>
+    <string name="string_classic">Classic generation</string>
+    <string name="string_fast">Fast generation</string>
+    <string name="string_reset">Reset</string>
+
+    <string name="string_save">Save</string>
+
+    <string name="string_q">q</string>
+    <string name="string_w">w</string>
+    <string name="string_e">e</string>
+    <string name="string_r">r</string>
+    <string name="string_t">t</string>
+    <string name="string_y">y</string>
+    <string name="string_u">u</string>
+    <string name="string_i">i</string>
+    <string name="string_o">o</string>
+    <string name="string_p">p</string>
+    <string name="string_a">a</string>
+    <string name="string_s">s</string>
+    <string name="string_d">d</string>
+    <string name="string_f">f</string>
+    <string name="string_g">g</string>
+    <string name="string_h">h</string>
+    <string name="string_j">j</string>
+    <string name="string_k">k</string>
+    <string name="string_l">l</string>
+    <string name="string_ñ">ñ</string>
+    <string name="string_z">z</string>
+    <string name="string_x">x</string>
+    <string name="string_c">c</string>
+    <string name="string_v">v</string>
+    <string name="string_b">b</string>
+    <string name="string_n">n</string>
+    <string name="string_m">m</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LetterGen</string>
+    <string name="nav_header_subtitle">A cool app to generate a random letter</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_generation_type">Letter generation type</string>
+    <string name="menu_fast">Fast</string>
+    <string name="menu_classic">Classic</string>
+    <string name="menu_change_default_letters">Change default letters</string>
+    <string name="menu_reset">Reset included letters</string>
+    <string name="menu_settings">Settings</string>
+
+
+</resources>

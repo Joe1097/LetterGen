@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/menu_generation_type">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_Fast"
+                android:icon="@drawable/ic_text_format"
+                android:title="@string/menu_fast" />
+            <item
+                android:id="@+id/nav_Classic"
+                android:icon="@drawable/ic_play_arrow"
+                android:title="@string/menu_classic" />
+
+        </group>
+    </item>
+
+
+    <item android:title="@string/menu_settings">
+        <menu>
+            <item
+                android:id="@+id/nav_Settings"
+                android:icon="@drawable/ic_view_comfy"
+                android:title="@string/menu_change_default_letters" />
+        </menu>
+    </item>
+
+</menu>
